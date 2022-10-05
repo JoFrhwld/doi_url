@@ -1,0 +1,9 @@
+---
+title: "doi_url"
+author: Jane Doe
+date: 2022-10-5
+doi: "10.23915/reprodocs.00010"
+citation: true
+---
+
+This index page has just the doi link in the html citation. But [this page](url_page.qmd) has the url.
